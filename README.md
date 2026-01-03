@@ -66,6 +66,8 @@ The goal is to build a beginner-friendly project showcasing **HTML, CSS, and Jav
 - 🗄 SQL / ASP.NET backend integration  
 - 🛍 Admin module to add & manage food items  
 
+[FOODIEE](https://github.com/marudhanSR/FOODIEEE)
+
 ---
 
 ## ⭐ Contributions & Feedback
